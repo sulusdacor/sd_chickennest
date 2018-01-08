@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <!--============================== chickennest ==============================-->
+
+<ThingDef ParentName="FurnitureBase">
+		<defName>sd_chickennest</defName>
+		<thingClass>Building_Bed</thingClass>
+		<label>chicken nest</label>
+		<description>A small nest for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. You can switch textures by rotating it.</description>
+		<rotatable>true</rotatable>
+		<fillPercent>0.25</fillPercent>
+		<pathCost>40</pathCost>
+		<castEdgeShadows>true</castEdgeShadows>
+		<passability>PassThroughOnly</passability>
+		<graphicData>
+			<texPath>sd_chickennest/sd_chickennest</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+		</graphicData>
+		<costList>
+			<Hay>35</Hay>
+		</costList>
+		<building>
+			<bed_humanlike>false</bed_humanlike>
+			<bed_maxBodySize>0.55</bed_maxBodySize>
+			<bed_showSleeperBody>true</bed_showSleeperBody>
+			<bed_healPerDay>3</bed_healPerDay>
+		</building>
+		<altitudeLayer>Building</altitudeLayer>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<WorkToBuild>120</WorkToBuild>
+			<Mass>3</Mass>
+			<BedRestEffectiveness>0.93</BedRestEffectiveness>
+			<Comfort>0.60</Comfort>
+			<ImmunityGainSpeedFactor>1.05</ImmunityGainSpeedFactor>
+			<SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_RoomIdentifier">
+				<roomStat>Impressiveness</roomStat>
+			</li>
+		</comps>
+		<uiIconPath>sd_chickennest/menu_icons/sd_chickennest_menuicon</uiIconPath>
+	</ThingDef>
+	
+	</Defs>

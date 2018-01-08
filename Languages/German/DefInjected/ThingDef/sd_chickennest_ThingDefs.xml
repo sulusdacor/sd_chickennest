@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  
+  <!-- Basic domestic furniture -->
+
+  <sd_chickennest.label>Hühnernest</sd_chickennest.label>
+  <sd_chickennest.description>Eine kleines Nest in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde. Durch Drehung des Nestst kann eine andere Texture gewählt werden.</sd_chickennest.description>
+  
+</LanguageData>

@@ -1,0 +1,42 @@
+personal changelog for mod "chickennest"
+
+- 14/10/2016
+
+	- added abstract bases to thingDef to avoid mod conflicts
+
+- 21/12/2016
+
+	- updated for a16
+	- added menu icon texture
+	- move both textures to one def, texture switch with rotate
+	- added mass (same as sleeping box)
+	- added room comp modifier (same as sleeping box)
+
+- 25/12/2016
+
+	- updated german language files
+	- put abstracts in own xml file
+	- added note in description of object for rotation texture switche (german langueage file too)
+
+- 06/01/2017
+
+	- fixed the xml line worktobuild, had old one, which got instant build
+
+- 29/05/2017
+
+	- update to a17
+	- changed heal per day from 7 to 3, since that is the value all other animal beds have
+	- added chinesesimplyfied languae thx to WishingLaws
+
+- 28/12/2017
+
+	- update to b18
+	- added surgerysucesschance 1 xml tag line for stats (same as animal sleepingbox)
+	- changed <Buildings> to <Defs> xml tag
+	- case sensitive changes: 	thingClass
+					passability
+					pathCost
+					altitudeLayer
+					castEdgeShadows
+					bed_showSleeperBody
+					designatinCategory

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- chickennest -->
+
+  <sd_chickennest.label>鸡窝</sd_chickennest.label>
+  <sd_chickennest.description>一个温馨的小窝供动物睡觉。适合较小的动物，如鸡，猫或小狗。您可以通过旋转来切换材质。</sd_chickennest.description>
+  <sd_chickennest_Blueprint.label>鸡窝（蓝图）</sd_chickennest_Blueprint.label>
+  <sd_chickennest_Blueprint_Install.label>鸡窝（蓝图）</sd_chickennest_Blueprint_Install.label>
+  <sd_chickennest_Frame.label>鸡窝（建造中）</sd_chickennest_Frame.label>
+
+
+</LanguageData>
