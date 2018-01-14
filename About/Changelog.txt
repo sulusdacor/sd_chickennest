@@ -40,3 +40,7 @@ personal changelog for mod "chickennest"
 					castEdgeShadows
 					bed_showSleeperBody
 					designatinCategory
+
+- 14/01/2018
+
+	- added modsync file
