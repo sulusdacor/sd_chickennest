@@ -44,3 +44,8 @@ personal changelog for mod "chickennest"
 - 14/01/2018
 
 	- added modsync file
+
+- 25/10/2018
+
+	- rimworld 1.0 update
+	- xml stuff

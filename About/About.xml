@@ -2,9 +2,10 @@
 <ModMetaData>
 	<name>[sd] chicken nest</name>
 	<author>sulusdacor</author>
-	<targetVersion>0.18.1722</targetVersion>
+	<targetVersion>1.0.2059</targetVersion>
 	<url>https://ludeon.com/forums/index.php?topic=26276.0</url>
 	<description>"chicken nest"
+	Ver.: 1.0-1.0.0
 	
 	adds a nest for small animals to the game. made out of hay, same stats as the animal sleeping box. don't needs research to build.
 	you can rotate the nest to switch between a darker and a lighter texture.
