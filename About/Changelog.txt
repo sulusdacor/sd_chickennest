@@ -49,3 +49,8 @@ personal changelog for mod "chickennest"
 
 	- rimworld 1.0 update
 	- xml stuff
+
+- 03/11/2018
+
+	- added spanish by CANALETA
+	- added spanish latin by CANALETA
